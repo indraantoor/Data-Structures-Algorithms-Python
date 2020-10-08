@@ -1,4 +1,7 @@
 # Towers Of Hanoi
+
+![TowersOfHanoi_1000](https://user-images.githubusercontent.com/64259328/95503518-1d533180-09c9-11eb-8d6d-f3e0536a62c1.gif)
+
 Towers of Hanoi is an ancient mathematical puzzle that starts off with three stacks and many disks.
 
 The objective of the game is to move the stack of disks from the leftmost stack to the rightmost stack.
