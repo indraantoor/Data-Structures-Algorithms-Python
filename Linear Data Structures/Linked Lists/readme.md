@@ -13,7 +13,7 @@ Common operations on a linked list:
 4. Traversing 
 
 ## Adding A Node
-We can add a node at the 
+We can add a node at the: 
 1. Beginning
 2. Middle
 3. End
