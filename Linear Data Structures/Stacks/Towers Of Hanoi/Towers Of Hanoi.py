@@ -95,6 +95,10 @@ print("\nThe fastest you can solve this game is in {0} moves".format(num_optimal
 
 # User Input
 def get_input():
+    """
+
+    :rtype: object
+    """
     choices = [stack.get_name()[0] for stack in stacks]
     while True:
         for i in range(len(stacks)):
